@@ -33,7 +33,7 @@
 
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Fusion" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript](https://www.google.com/imgres?q=fusion%20360%20logo&imgurl=https%3A%2F%2Fi.pinimg.com%2F1200x%2F79%2Fc1%2F4a%2F79c14a06b3a0141a7709d66435234c4b.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F1130755419025980956%2F&docid=wlKOgZFc9JMoHM&tbnid=QjiUorUM7l-MyM&vet=12ahUKEwjgmtKzy4KNAxVqSmwGHbK3Di4QM3oECBgQAA..i&w=640&h=400&hcb=2&ved=2ahUKEwjgmtKzy4KNAxVqSmwGHbK3Di4QM3oECBgQAA)&logoColor=F7DF1E"  height="25px"/>
+<img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-ED1C24?style=for-the-badge&logo=autodesk&logoColor=white" height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
