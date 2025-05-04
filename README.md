@@ -20,6 +20,7 @@
 <p>
 <img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-ED1C24?style=for-the-badge&logo=autodesk&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 ## ❤️ Let's get connected:
 
