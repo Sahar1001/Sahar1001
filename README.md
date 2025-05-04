@@ -20,7 +20,13 @@
 <p>
 <img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-ED1C24?style=for-the-badge&logo=autodesk&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="25px"/>
+<img alt="ESP32" src="https://img.shields.io/badge/ESP32-003B49?style=for-the-badge&logo=espressif&logoColor=white" height="25px"/>
+<img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black" height="25px"/>
+<img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white" height="25px"/>
+<img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-BA0C2F?style=for-the-badge&logo=dassaultsystemes&logoColor=white" height="25px"/>
+<img alt="Fritzing" src="https://img.shields.io/badge/Fritzing-CC342D?style=for-the-badge&logo=fritzing&logoColor=white" height="25px"/>
+<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white" height="25px"/>
 
 ## ❤️ Let's get connected:
 
