@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **nagasagar684@gamil.com** , **sahars@karunya.edu.in**
   
-- ⚡ Fun fact: **I can name all the planets in the solar system faster than most people can say "laparoscopic surgery!"**
-  
 ## 🛠️ Technologies and Tools I use:
 
 <p>
