@@ -27,6 +27,7 @@
 <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-BA0C2F?style=for-the-badge&logo=dassaultsystemes&logoColor=white" height="25px"/>
 <img alt="Fritzing" src="https://img.shields.io/badge/Fritzing-CC342D?style=for-the-badge&logo=fritzing&logoColor=white" height="25px"/>
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white" height="25px"/>
+<img alt="Multisim" src="https://img.shields.io/badge/Multisim-005DAA?style=for-the-badge&logo=ni&logoColor=white" height="25px"/>
 
 ## ❤️ Let's get connected:
 
