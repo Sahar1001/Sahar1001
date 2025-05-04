@@ -1,28 +1,22 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Sahar</h1>
+<h1 align="center">Hi 👋, I'm Sahar</h1>
+<h3 align="center">B.Tech in Robotics and Automation | Passionate about Medical Robotics</h3>
 
+- 🎓 Pursuing **B.Tech in Robotics and Automation** at **Karunya Institute of Technology and Sciences**, Coimbatore
 
+- 🤖 Interested in **Medical Robotics** and its applications in healthcare
 
-<!--<div align="center">
-  <img src ="./banner.png" />
+- 🧠 Planning to delve into **Medical Image Processing and Segmentation**
+
+- 🌱 Currently learning **Principles of Surgical Robotics** and exploring innovations in medical technology
+
+- 👯 Looking to collaborate on **projects that advance surgical robotics and automation in healthcare**
+
+- 💬 Ask me about **robotics, automation, and the latest in medical tech**
+
+- 📫 How to reach me **nagasagar684@gamil.com** , **sahars@karunya.edu.in**
   
-</div>
-
- <br/>-->
-
-## 👨🏻‍💻 About Me:
-
-<img  src="https://miro.medium.com/v2/resize:fit:700/0*NgUtI3tYLhuq5Vy0.gif" height="290px" align="right" />
-
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `Image Processing`
-
-- 👯 I’m looking to collaborate for `medical image processing `
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games
-
+- ⚡ Fun fact: **I can name all the planets in the solar system faster than most people can say "laparoscopic surgery!"**
+  
 ## 🛠️ Technologies and Tools I use:
 
 <p>
